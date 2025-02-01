@@ -29,8 +29,8 @@ The analysis focuses on **market demand, competitor performance, and demographic
 ---
 
 ## Contributors
-Hsueh-Ning Chao
-Jou-Ting Chiang 
-Da-Fang Lin
-Qi Su
+- Hsueh-Ning Chao
+- Jou-Ting Chiang 
+- Da-Fang Lin
+- Qi Su
 

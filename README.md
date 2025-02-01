@@ -1,4 +1,3 @@
-# Market-Expansion-Analysis-with-SQL
 # SQL-Driven Market Expansion & Competitor Analysis
 
 ## Project Overview

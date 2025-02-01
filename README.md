@@ -25,3 +25,12 @@ The analysis focuses on **market demand, competitor performance, and demographic
 **Ranked top fitness brands by market dominance**, with **Gold’s Gym & LA Fitness leading in revenue growth**  
 **Revenue growth & customer foot traffic** were the most significant factors in expansion success  
 **Developed Tableau dashboards** to visualize market trends and support investment decisions  
+
+---
+
+## Contributors
+Hsueh-Ning Chao
+Jou-Ting Chiang 
+Da-Fang Lin
+Qi Su
+
